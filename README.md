@@ -1,4 +1,4 @@
-# Laravel Starter Kit
+# finalProject
 
 ## Project Description
 This project is a personalized **Laravel Starter Kit** designed as a boilerplate for future Laravel-based systems. It includes a complete **authentication system**, **admin panel**, **role-based access control**, and **sample CRUD operations**. The project demonstrates a clean Laravel structure with scalable features for web applications.
@@ -26,3 +26,5 @@ This project is a personalized **Laravel Starter Kit** designed as a boilerplate
 1. Clone the repository:  
 ```bash
 https://github.com/rzyyyyy/FERNANDEZ_ENG_LABOR_BSIT4.git
+
+Wala namo nahuman sir kay nahutdan mig gb sa akong laptop sir.
